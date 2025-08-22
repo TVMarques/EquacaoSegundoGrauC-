@@ -1,0 +1,14 @@
+C:\Users\thiag\Documents\CodigosC#\bin\Debug\net9.0\CodigosC#.exe
+C:\Users\thiag\Documents\CodigosC#\bin\Debug\net9.0\CodigosC#.deps.json
+C:\Users\thiag\Documents\CodigosC#\bin\Debug\net9.0\CodigosC#.runtimeconfig.json
+C:\Users\thiag\Documents\CodigosC#\bin\Debug\net9.0\CodigosC#.dll
+C:\Users\thiag\Documents\CodigosC#\bin\Debug\net9.0\CodigosC#.pdb
+C:\Users\thiag\Documents\CodigosC#\obj\Debug\net9.0\CodigosC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiag\Documents\CodigosC#\obj\Debug\net9.0\CodigosC#.AssemblyInfoInputs.cache
+C:\Users\thiag\Documents\CodigosC#\obj\Debug\net9.0\CodigosC#.AssemblyInfo.cs
+C:\Users\thiag\Documents\CodigosC#\obj\Debug\net9.0\CodigosC#.csproj.CoreCompileInputs.cache
+C:\Users\thiag\Documents\CodigosC#\obj\Debug\net9.0\CodigosC#.dll
+C:\Users\thiag\Documents\CodigosC#\obj\Debug\net9.0\refint\CodigosC#.dll
+C:\Users\thiag\Documents\CodigosC#\obj\Debug\net9.0\CodigosC#.pdb
+C:\Users\thiag\Documents\CodigosC#\obj\Debug\net9.0\CodigosC#.genruntimeconfig.cache
+C:\Users\thiag\Documents\CodigosC#\obj\Debug\net9.0\ref\CodigosC#.dll
